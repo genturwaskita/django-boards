@@ -1,0 +1,18 @@
+body{
+	background-color: #F5F5F5;
+}
+
+.logo{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.4em;
+}
+
+.logo a{
+	color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+	text-decoration: none; 
+}
